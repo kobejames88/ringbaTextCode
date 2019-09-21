@@ -2,8 +2,7 @@
 .net 文档排序算法
 
 
-document:https://ringba-test-html.s3-us-west-1.amazonaws.com/TestQuestions/output.txt
-文件路径：https://ringba-test-html.s3-us-west-1.amazonaws.com/TestQuestions/output.txt
+document path:https://ringba-test-html.s3-us-west-1.amazonaws.com/TestQuestions/output.txt
 
 Please print the following statistics on the contents of the files retrieved above on the console.
 
@@ -22,4 +21,4 @@ Please print the following statistics on the contents of the files retrieved abo
 Note that the word "in" does not contain the prefix "in", but the word "indirect" does.
 
 
-run：dotnet run 
+run：dotnet run  
